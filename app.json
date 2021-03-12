@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.jvalmeidac61.gerador"
     },
     "web": {
       "favicon": "./assets/favicon.png"
